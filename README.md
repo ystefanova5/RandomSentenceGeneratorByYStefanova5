@@ -1,1 +1,1 @@
-# RandomSentenceGeneratorByYStefanova5
+# Random Sentence Generator by ystefanova5
